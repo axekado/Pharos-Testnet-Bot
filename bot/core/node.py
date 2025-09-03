@@ -317,7 +317,7 @@ class DawnExtensionAPI(APIClient):
             'user-agent': self.user_agent,
         }
 
-        json_data = {
+        json_data = { 
             'username': email,
             'puzzle_id': puzzle_id,
             'ans': answer,
